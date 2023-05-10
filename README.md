@@ -6,7 +6,7 @@ To obtain the code, simply follow these steps as outlined. <br>
 1.git clone [http, ssh, or gh path]
 
 visit the website for reference:
-https://rtu-apparel.web.app
+https://rtu-pos.web.app
 
 
 
